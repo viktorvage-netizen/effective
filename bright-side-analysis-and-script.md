@@ -51,7 +51,7 @@ Long-form videos run **8–13 minutes** (about 1,300–1,900 words at 150 wpm). 
 **TITLE:** What If You Stayed Awake for 11 Days Straight?
 **Alt titles (for A/B testing):** "What Happens to Your Body If You Don't Sleep for 264 Hours" / "This Teen Didn't Sleep for 11 Days — Here's What Happened"
 **THUMBNAIL:** A cartoon guy with huge bloodshot eyes, holding coffee cups in both hands, with a melting clock behind him. Text: **"DAY 11"**
-**Length target:** ~9–10 min (~1,450 words)
+**Length target:** ~10 min (~1,500 words of narration at 150 words per minute)
 
 ---
 
@@ -66,7 +66,7 @@ So what would happen to *you* if you tried the same thing? Let's go day by day. 
 
 ---
 
-### [0:45] DAY 1 — "I'm Fine, Actually"
+### [0:44] DAY 1 — "I'm Fine, Actually"
 *(Visual: character at a desk, cheerful, sipping coffee. Counter in the corner: HOUR 16.)*
 
 **NARRATOR:** The first 16 hours are just a normal day. Then night comes, and your body starts sending memos.
@@ -75,40 +75,50 @@ A chemical called **adenosine** has been building up in your brain since the mom
 
 By hour 17 to 19, your reaction time is about as slow as someone who's had a couple of drinks. You haven't had a drop, but your brain is already driving like it did.
 
+Then, around sunrise, something weird happens. You suddenly feel... better? That's your **body clock** talking. A tiny area deep in your brain keeps track of day and night, and when the morning comes, it pushes an "alert" signal no matter how tired you are. Scientists sometimes call this the *second wind*. Enjoy it. It won't last.
+
 *(SFX: record scratch.)* So no, pulling an all-nighter before an exam is *not* a power move.
 
 ---
 
-### [1:45] DAY 2 — The Grumpy Zombie Phase
+### [1:48] DAY 2 — The Grumpy Zombie Phase
 *(Visual: character snaps at a houseplant for "looking at him funny".)*
 
 **NARRATOR:** Hour 24. You've now been awake for one full rotation of the Earth. Congratulations?
 
 Your brain's emotional center, the **amygdala**, becomes much more reactive when you're sleep-deprived. The part that normally keeps it calm, your prefrontal cortex, is basically on a coffee break. So small things feel huge. Someone chews too loudly and you consider moving to another country.
 
-Your body starts craving sugar and fat, because lack of sleep messes with the hormones that control hunger. That's why at 4 AM, a whole pizza sounds like a *reasonable* snack.
+Your body starts craving sugar and fat, because lack of sleep messes with the hormones that control hunger. **Ghrelin**, the "feed me" hormone, goes up. **Leptin**, the "I'm full" hormone, goes down. That's why at 4 AM, a whole pizza sounds like a *reasonable* snack.
+
+And remember those couple of drinks? After 24 hours awake, one study found people performed about as badly as someone over the legal driving limit in many countries. Your eyes feel like sandpaper, and your jokes stop being funny. Well, funnier than usual, at least to you.
+
+Quick question before we continue: what's the latest you've ever stayed up? Pause the video and drop your record in the comments. Let's see who survives the longest.
 
 But here's where it gets weird...
 
 ---
 
-### [2:45] DAY 3 — Microsleeps
+### [3:02] DAY 3 — Microsleeps
 *(Visual: character blinks and in a split second the background jumps from day to night.)*
 
 **NARRATOR:** Around hour 48, your brain starts taking matters into its own hands. It begins shutting down for **microsleeps**, tiny naps that last from a fraction of a second to several seconds. You don't choose them, and often you don't even notice them.
 
 You could be in the middle of a conversation, "blink", and miss half a sentence. Now imagine that happening while driving. That's exactly why drowsy driving is so dangerous.
 
+It gets even stranger. Scientists who studied tired rats found that small groups of brain cells can switch off on their own while the animal is still awake and moving around. Your brain isn't asleep or awake anymore. It's a little bit of both, like a house where the lights flicker room by room.
+
 And your eyes? They're struggling to focus. Things at the edge of your vision start to... move.
 
 ---
 
-### [3:45] DAY 4 — The Hallucinations Begin
+### [3:59] DAY 4 — The Hallucinations Begin
 *(Visual: a street sign slowly turns into a person waving. Character waves back.)*
 
 **NARRATOR:** Remember our 17-year-old? His name was **Randy Gardner**, a high school student from San Diego. He did this for a science fair project, as you do.
 
 Around day 4, Randy looked at a street sign and was convinced it was a *person*. Hallucinations are common after a few days without sleep. Your brain is so desperate for rest that it starts mixing dream-like images into your waking life.
+
+Many sleep-deprived people also describe something called the **"hat phenomenon"**: the feeling of a tight band squeezing around their head, like wearing a hat that's two sizes too small. Spoiler: there's no hat.
 
 Meanwhile, there's a cleanup crew in your head that isn't getting to work. During deep sleep, your brain washes itself with fluid that helps flush out waste. Scientists call it the **glymphatic system**. No sleep means the trash keeps piling up.
 
@@ -116,10 +126,12 @@ Meanwhile, there's a cleanup crew in your head that isn't getting to work. Durin
 
 ---
 
-### [4:45] DAYS 5–6 — Who Am I Again?
+### [4:56] DAYS 5–6 — Who Am I Again?
 *(Visual: character holds a mirror, his reflection shrugs.)*
 
 **NARRATOR:** By now, your memory is falling apart. Your brain needs sleep to save the day's memories to long-term storage. Without it, it's like typing a document for hours and never pressing "Save".
+
+And it doesn't take days for this to start. In one study, people who skipped just *one* night of sleep were about 40 percent worse at forming new memories the next day. Now multiply that by five.
 
 Randy started having trouble concentrating and remembering things. Words felt hard to find. Your speech slows down, and you might start slurring like you're half-asleep. Because, technically, parts of your brain *are*.
 
@@ -127,7 +139,7 @@ Your immune system is also taking a hit. People who sleep badly are more likely 
 
 ---
 
-### [5:45] DAYS 7–8 — The Paranoid Phase
+### [5:48] DAYS 7–8 — The Paranoid Phase
 *(Visual: character hides behind a couch, peeking at a harmless toaster.)*
 
 **NARRATOR:** One week in. Things get dark, and a little paranoid.
@@ -136,16 +148,18 @@ At some point, Randy believed he was **Paul Lowe**, a professional football play
 
 With extreme sleep loss, some people start to feel suspicious, confused or disconnected from reality. The line between thoughts and dreams gets blurry. Your body temperature can drop a little, and your hands may start to shake.
 
+Researchers who looked back at decades of sleep-loss studies noticed a pattern: the longer people stay awake, the stronger these effects get. First come the distorted senses, then the anxiety, and eventually symptoms that look a lot like a serious mental illness. The good news? In most cases, they fade once the person finally gets some real sleep.
+
 *(SFX: dramatic sting.)* And yet, his body kept going. Which brings us to the big question...
 
 ---
 
-### [6:45] DAYS 9–10 — Running on Empty
+### [6:42] DAYS 9–10 — Running on Empty
 *(Visual: a phone battery icon at 1%, blinking red, with a sweaty face.)*
 
 **NARRATOR:** How did he stay awake at all? Friends kept him moving. They played basketball, went bowling and drove around at night. Whenever he sat still for too long, sleep came crashing in.
 
-A famous sleep researcher from Stanford, **William Dement**, joined to watch over him. Here's the surprising part: when they played pinball, Randy *beat* him, again and again. Some simple, automatic skills were still working fine, even while his memory and focus were collapsing.
+A famous sleep researcher from Stanford, **William Dement**, joined to watch over him. A doctor from the U.S. Navy also kept checking his health along the way. Here's the surprising part: when they played pinball, Randy *beat* him, again and again. Some simple, automatic skills were still working fine, even while his memory and focus were collapsing.
 
 But when they asked him to count backward from 100 by sevens? He got to about 65... and stopped. When they asked why, he said he'd forgotten what he was doing.
 
@@ -156,6 +170,8 @@ But when they asked him to count backward from 100 by sevens? He got to about 65
 
 **NARRATOR:** Day 11. **264 hours** without sleep. That's longer than any officially watched attempt before it. Randy even held a press conference and spoke surprisingly clearly.
 
+Over the years, a few people have claimed they stayed awake even longer. But none of them were watched by scientists as closely as Randy was, which is why his story is still the one textbooks talk about.
+
 Then he went to sleep. And here's the strange ending I promised...
 
 He slept for about **14 hours**, woke up feeling mostly fine, and went back to school. His body didn't need to "pay back" all 11 days of sleep. It focused on the most important types: deep sleep and dream sleep.
@@ -164,18 +180,29 @@ He slept for about **14 hours**, woke up feeling mostly fine, and went back to s
 
 ---
 
-### [8:15] THE TWIST — Please Don't Try This
+### [8:16] THE TWIST — Please Don't Try This
 *(Visual: a big red "DON'T" stamp slams onto the screen.)*
 
 **NARRATOR:** Now, before you cancel your plans for tonight, here's the catch. Randy was young, healthy and watched by scientists the whole time. And years later, he said he developed serious insomnia that he believed was linked to his experiment.
 
-Guinness World Records actually **stopped accepting** sleep deprivation records, because it's too dangerous. Studies on animals showed that total, long-term sleep loss can be deadly. And people who regularly sleep too little have higher risks of heart disease, diabetes and depression.
+Guinness World Records actually **stopped accepting** sleep deprivation records, because it's too dangerous. In experiments in the 1980s, rats that were kept from sleeping completely died within a few weeks. And people who regularly sleep too little have higher risks of heart disease, diabetes and depression.
 
 So the real superpower isn't staying awake for 11 days. It's getting **7 to 9 hours** tonight.
 
 ---
 
-### [8:55] OUTRO
+### [8:57] BONUS — "But I Only Need 4 Hours!"
+*(Visual: a smug cartoon guy with a "4 HRS" mug. A buzzer sound. Big red X.)*
+
+**NARRATOR:** You probably know someone who says they're totally fine on four hours of sleep. Are they lying? Most likely, yes.
+
+Scientists have found a few rare families with a gene change that lets them feel rested on about six hours a night. But these "short sleepers" are extremely rare. For everyone else, sleeping less just means getting used to feeling tired, and forgetting what "normal" feels like.
+
+Teenagers need even more than adults, about 8 to 10 hours. Which means Randy didn't just skip sleep. He skipped the sleep of a growing teenager.
+
+---
+
+### [9:34] OUTRO
 *(Visual: character tucked into bed, a sleeping cat on his chest.)*
 
 **NARRATOR:** So, how long have *you* stayed awake? Tell us your record in the comments. Bonus points if you saw a talking street sign.
